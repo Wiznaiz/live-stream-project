@@ -14,8 +14,10 @@
 - React.js
 
 
-## Watch video
-
+## author
+Munaiz
+Ajmal
+Adil
 
 ## Help and community
 
