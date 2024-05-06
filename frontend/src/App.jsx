@@ -13,6 +13,7 @@ function App() {
     controls: true,
     responsive: true,
     fluid: true,
+    playbackRates: [0.5, 1, 1.5, 2],
     sources: [
       {
         src: videoLink,
