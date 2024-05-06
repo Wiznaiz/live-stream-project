@@ -15,9 +15,9 @@
 
 
 ## author
-Munaiz
-Ajmal
-Adil
+- Munaiz
+- Ajmal
+- Adil
 
 ## Help and community
 
