@@ -14,12 +14,7 @@
 - React.js
 
 
-## Watch video
-
-
-## Help and community
-
-If you have any questions or need help, please ask in the [Discord community](https://chaicode.com).
-
-
-
+## Authors
+- Munaiz
+- Adil
+- Ajmal
